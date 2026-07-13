@@ -38,7 +38,7 @@ O objetivo é apresentar os principais indicadores do e-commerce de forma visual
 
 ## Acessar Dashboard
 
-**Link público:**
+**Link público:* *https://datastudio.google.com/reporting/cb53c748-e648-4b74-854b-273e7d35acfc*
 
 ## Projeto relacionado
 
@@ -76,7 +76,7 @@ Os dados utilizados neste dashboard foram preparados no projeto:
 
 ## 🔗 Dashboard Interativo
 
-**Acesse o dashboard:**
+*Acesse o dashboard:* *https://datastudio.google.com/reporting/cb53c748-e648-4b74-854b-273e7d35acfc*
 
 ---
 
