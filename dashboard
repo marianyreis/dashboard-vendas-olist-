@@ -1,0 +1,6 @@
+dashboard-vendas-olist/
+│
+├── README.md
+├── imagens/
+│   └── dashboard.png
+└── .gitignore
