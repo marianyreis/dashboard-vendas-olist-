@@ -1,5 +1,3 @@
-# 📊 Dashboard de Vendas - Olist
-
 ## Sobre o projeto
 
 Dashboard desenvolvido no Looker Studio utilizando os dados tratados no projeto de Análise Exploratória de Dados (EDA) da Olist.
@@ -7,7 +5,7 @@ Dashboard desenvolvido no Looker Studio utilizando os dados tratados no projeto 
 O objetivo é apresentar indicadores de desempenho do e-commerce de forma visual e interativa.
 
 ## Ferramentas
-=======
+
 Dashboard desenvolvido no **Looker Studio** utilizando os dados tratados no projeto de Análise Exploratória de Dados (EDA) da Olist.
 
 O objetivo é apresentar os principais indicadores do e-commerce de forma visual e interativa, facilitando a análise do desempenho das vendas.
@@ -40,7 +38,7 @@ O objetivo é apresentar os principais indicadores do e-commerce de forma visual
 
 ## Acessar Dashboard
 
-**Link público:** COLE O LINK AQUI
+**Link público:**
 
 ## Projeto relacionado
 
@@ -78,7 +76,7 @@ Os dados utilizados neste dashboard foram preparados no projeto:
 
 ## 🔗 Dashboard Interativo
 
-**Acesse o dashboard:** *(cole aqui o link público do Looker Studio)*
+**Acesse o dashboard:**
 
 ---
 
